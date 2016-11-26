@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/jolabti/loading-data-into-ionic-master/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="9481dc7ce8722a5ac9e70943328ecd00addb8f36">
+        <dex dex="/home/jolabti/loading-data-into-ionic-master/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-unspecified-debug_5b811405afbb751f4cba6290765ac6ce0d3b3bf3.jar" />
+    </item>
+
+</items>
